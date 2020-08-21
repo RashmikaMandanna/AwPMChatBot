@@ -1,13 +1,13 @@
 {
-  "name": "pmChatBot",
-  "description": "Livegram clone",
+  "name": "AlanWalkerChatBot",
+  "description": "LivegramBot Clone",
   "keywords": [
     "telegram",
     "bot",
     "php"
   ],
-  "website": "https://quiec.tech/",
-  "repository": "https://github.com/quiec/pmChatBot",
+  "Telegram": "https://t.me/AlanWalker_Bots",
+  "repository": "https://github.com/",
   "logo": "https://www.pngmart.com/files/11/Chat-Logo-PNG-Image.png",
   "env": {
     "BOT_TOKEN": {
@@ -21,7 +21,7 @@
     },
     "ADMIN_ID": {
       "description": "admin id",
-      "value": "452321614",
+      "value": "",
       "required": false
     }
   },
