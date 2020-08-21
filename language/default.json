@@ -1,6 +1,6 @@
 {
-    "START": "Hi, You can message my owner with this bot. You can send any media. My owner will reply ur message ASAP!",
-    "ERROR_REPLY": "*Please reply an message.*",
-    "ERROR_NOTFOUND": "*Message not found in database. Can't reply.*",
+    "START": "Hey! I've Received Your Message And I Sent This To My Owner, He'll Reply You ASAP! Powered By [AlanWalker Bots](https://t.me/AlanWalker_Bots) .",
+    "ERROR_REPLY": "*Please Reply An Message To Send.*",
+    "ERROR_NOTFOUND": "*Message Not Found In Database. Can't Reply.*",
     "SENDER": "*Sender:*"
 }
