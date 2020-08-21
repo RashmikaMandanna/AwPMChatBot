@@ -1,36 +1,34 @@
-# pmChatBot
-[Boting](https://github.com/Quiec/Boting) ile yazılmış, basit bir feed-back botu. Livegram bot'a benzer.
+# PmChatBot
 
-[🇹🇷 Türkçe](https://github.com/Quiec/pmChatBot/blob/master/README-tr.md) | [🇬🇧 English](https://github.com/Quiec/pmChatBot/blob/master/README.md) 
-## Yükleme
-### Basit Yöntem
+# Made With Love In India
+### Deploy In Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-### Zor Yöntem
+### XxxxxxxxxX
 ```sh
-git clone https://github.com/Quiec/pmChatBot
+sh
 cd pmChatBot
 composer install
 nano .env
-# ÖRNEK ENV GİBİ EKLEME YAPIN #
+# XxxxxxxxxX #
 php bot.php
 ```
 
-## Örnek Env
+## XxxxxxxxxX
 ```env
 DB_TUR="json"
 BOT_TOKEN="BOT TOKEN"
 ADMIN_ID="ID'IN"
 ```
 
-## Özellikleri
-* Gizlilik ayarlarına uygun
-* Heroku desteği
-* JSON Dil Dosyası (Yazılar değişebilir)
+## XxxxxxxxxX
+* XxxxxxxxxX
+* XxxxxxxxxX
+* XxxxxxxxxX
 
-## Komutlar
+## XxxxxxxxxX
 ### /link
-Kullanıcının (varsa) kullanıcı adını verir, ayrıca kullanıcıya ulaşılabilinecek bir link verir.
+XxxxxxxxxX.
 
-## İletişim
-[Telegram Adresim](https://t.me/fusuf)
+## Join Our Telegram Bots Channel
+[Telegram Adresim](https://t.me/AlanWalker_Bots)
