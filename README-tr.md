@@ -31,4 +31,4 @@ ADMIN_ID="ID'IN"
 XxxxxxxxxX.
 
 ## Join Our Telegram Bots Channel
-[Telegram Adresim](https://t.me/AlanWalker_Bots)
+[AlanWalker Bots](https://t.me/AlanWalker_Bots)
